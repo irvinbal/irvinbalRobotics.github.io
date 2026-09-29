@@ -4,11 +4,15 @@ This page documents my work and learning throughout the VEX VR Computer Science 
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Disk Color Maze]
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+Level 1: Program the VR Robot to move through the Disk Maze from Start to Finish using the Front Eye Sensor to detect the disk colors. Detect at least 5 disk colors before moving to the finish. The green square is the starting point, and the red disk is the finish.
+
+Level 2: Program the VR Robot to move through the Disk Maze from Start to Finish using the Down Eye Sensor to detect the floor colors. 
+
+Level 3: Program the VR Robot to move through the Disk Maze from Start to Finish, turn around 180 degrees, and then move back through the Disk Maze to the original starting point.
 
 ### My Solution
 
