@@ -16,7 +16,7 @@ Level 3: Program the VR Robot to move through the Disk Maze from Start to Finish
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="300" height="300" alt="image" src="" />
 
 ### What I Learned
 
